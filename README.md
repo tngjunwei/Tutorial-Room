@@ -13,3 +13,4 @@ Future functionalities include:
 1) list of lectures to be given at a lecture theatre (for enthusiastic students)
 2) a friendly user-interface to view overall schedule for a tutorial room
 more...
+3) Something new
